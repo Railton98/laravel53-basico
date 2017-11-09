@@ -1,0 +1,34 @@
+/* 
+    Created on : 08/10/2017, 16:53:00
+    Author     : raylttons
+*/
+.title-pg {
+    font-size: 3em;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.edit {
+    background: #242063;
+}
+
+.delete {
+    background: #e21212;
+}
+
+.actions {
+    padding: 6px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 1em;
+    margin: 0px 3px;
+}
+
+.actions:hover {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.btn-add {
+    margin: 10px;
+}
